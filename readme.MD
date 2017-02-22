@@ -8,7 +8,7 @@ You need to have a `selenium-standalone` at ready, if you never used one, just:
 
 ```bash
 npm i -g selenium-standalone  
-selenium-standalone installed   
+selenium-standalone install   
 selenium-standalone start
 ```
 
